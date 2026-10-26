@@ -15,7 +15,7 @@ I created a virtual lab environment simulating a perimeter firewall setup connec
 * **LAN Interface (`port2`)**: Connected to an internal Cisco switch (`R2`).
 * **Internal Clients (`VPC3`, `VPC4`)**: Virtual PCs connected to the switch on ports `e0/1` and `e0/2`.
 
-![Network Topology](./files/topology.png)
+![Network Topology](https://github.com/Marwa-rh/FortiGate-Firewall-Setup/blob/main/files/Topology.png)
 
 ---
 
