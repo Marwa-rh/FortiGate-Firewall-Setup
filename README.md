@@ -1,6 +1,6 @@
 # Building a FortiGate Firewall Lab in EVE-NG with VMware Workstation
 
-Hey everyone! 👋 As someone passionate about cybersecurity and networking, I wanted to get hands-on experience with enterprise firewalls. 
+Hey everyone! As someone passionate about cybersecurity and networking, I wanted to get hands-on experience with enterprise firewalls. 
 
 This project documents my step-by-step process of installing **EVE-NG** inside **VMware Workstation**, deploying a **FortiGate VM64-KVM** firewall, and configuring a dual-zone network topology with internal endpoints.
 
@@ -15,7 +15,7 @@ I created a virtual lab environment simulating a perimeter firewall setup connec
 * **LAN Interface (`port2`)**: Connected to an internal Cisco switch (`R2`).
 * **Internal Clients (`VPC3`, `VPC4`)**: Virtual PCs connected to the switch on ports `e0/1` and `e0/2`.
 
-![Network Topology](./docs/topology.png)
+![Network Topology](./files/topology.png)
 
 ---
 
